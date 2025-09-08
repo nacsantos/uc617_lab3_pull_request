@@ -90,6 +90,6 @@ Cada aluno deve:
 - [ ] Paola Oliveira Batista
 - [x] Pedro dos Santos Guerra
 - [ ] Ricardo Galvão Evans
-- [ ] Tiago André Nunes Rosa
+- [x] Tiago André Nunes Rosa
 - [ ] Vanessa Patricia Carvalho Teles
 - [ ] Vitor Silva Andrade
