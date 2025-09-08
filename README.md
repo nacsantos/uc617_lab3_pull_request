@@ -74,7 +74,7 @@ Cada aluno deve:
 > **Adicionar aqui o seu nome** quando submeter a tua contribuição.
 
 - [x] Nelson Santos
-- [ ] André Filipe Nascimento Correia
+- [x] André Filipe Nascimento Correia
 - [ ] Augusto José Antunes Garcia
 - [ ]Catarina Gomes Tomaz
 - [ ] Daniel Martins Grazina
