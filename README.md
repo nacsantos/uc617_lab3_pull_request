@@ -75,7 +75,7 @@ Cada aluno deve:
 
 - [x] Nelson Santos
 - [ ] André Filipe Nascimento Correia
-- [ ] Augusto José Antunes Garcia
+- [x] Augusto José Antunes Garcia
 - [ ]Catarina Gomes Tomaz
 - [ ] Daniel Martins Grazina
 - [ ] Diogo Jorge Andrade Simões
