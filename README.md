@@ -82,7 +82,7 @@ Cada aluno deve:
 - [ ] Diogo Rafael Francisco Bilreiro
 - [ ] Eduardo Alexandre Lopes Janeiro Pires
 - [ ] Filipe Marques Junqueiro
-- [ ] Gonçalo Filipe Brigues Gonçalves
+- [x] Gonçalo Filipe Brigues Gonçalves
 - [ ] Gonçalo Vasques Martins
 - [ ] Hugo Miguel Patrocínio Bacalhau
 - [ ] Leonor Maria Campos Joaquim
