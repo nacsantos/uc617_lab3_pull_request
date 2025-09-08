@@ -85,7 +85,7 @@ Cada aluno deve:
 - [x] Gonçalo Filipe Brigues Gonçalves
 - [ ] Gonçalo Vasques Martins
 - [ ] Hugo Miguel Patrocínio Bacalhau
-- [ ] Leonor Maria Campos Joaquim
+- [X] Leonor Maria Campos Joaquim
 - [ ] Marco António Campaniço Candeias
 - [ ] Paola Oliveira Batista
 - [x] Pedro dos Santos Guerra
