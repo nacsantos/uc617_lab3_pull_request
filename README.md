@@ -88,7 +88,7 @@ Cada aluno deve:
 - [ ] Leonor Maria Campos Joaquim
 - [ ] Marco António Campaniço Candeias
 - [ ] Paola Oliveira Batista
-- [ ] Pedro dos Santos Guerra
+- [x] Pedro dos Santos Guerra
 - [ ] Ricardo Galvão Evans
 - [ ] Tiago André Nunes Rosa
 - [ ] Vanessa Patricia Carvalho Teles
