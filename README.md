@@ -92,4 +92,4 @@ Cada aluno deve:
 - [ ] Ricardo Galvão Evans
 - [ ] Tiago André Nunes Rosa
 - [ ] Vanessa Patricia Carvalho Teles
-- [ ] Vitor Silva Andrade
+- [x] Vitor Silva Andrade
