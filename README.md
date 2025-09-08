@@ -79,10 +79,10 @@ Cada aluno deve:
 - [ ]Catarina Gomes Tomaz
 - [ ] Daniel Martins Grazina
 - [ ] Diogo Jorge Andrade Simões
-- [ ] Diogo Rafael Francisco Bilreiro
+- [x] Diogo Rafael Francisco Bilreiro
 - [ ] Eduardo Alexandre Lopes Janeiro Pires
 - [ ] Filipe Marques Junqueiro
-- [ ] Gonçalo Filipe Brigues Gonçalves
+- [x] Gonçalo Filipe Brigues Gonçalves
 - [ ] Gonçalo Vasques Martins
 - [ ] Hugo Miguel Patrocínio Bacalhau
 - [ ] Leonor Maria Campos Joaquim
