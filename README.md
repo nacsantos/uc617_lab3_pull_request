@@ -89,7 +89,7 @@ Cada aluno deve:
 - [ ] Marco António Campaniço Candeias
 - [ ] Paola Oliveira Batista
 - [x] Pedro dos Santos Guerra
-- [ ] Ricardo Galvão Evans
+- [X] Ricardo Galvão Evans
 - [ ] Tiago André Nunes Rosa
 - [ ] Vanessa Patricia Carvalho Teles
 - [ ] Vitor Silva Andrade
