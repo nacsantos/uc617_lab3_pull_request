@@ -77,7 +77,7 @@ Cada aluno deve:
 - [x] André Filipe Nascimento Correia
 - [ ] Augusto José Antunes Garcia
 - [ ]Catarina Gomes Tomaz
-- [ ] Daniel Martins Grazina
+- [x] Daniel Martins Grazina
 - [ ] Diogo Jorge Andrade Simões
 - [x] Diogo Rafael Francisco Bilreiro
 - [ ] Eduardo Alexandre Lopes Janeiro Pires
