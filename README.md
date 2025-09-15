@@ -88,7 +88,7 @@ Cada aluno deve:
 - [ ] Hugo Miguel Patrocínio Bacalhau
 - [X] Leonor Maria Campos Joaquim
 - [X] Marco António Campaniço Candeias
-- [ ] Paola Oliveira Batista
+- [x] Paola Oliveira Batista
 - [x] Pedro dos Santos Guerra
 - [X] Ricardo Galvão Evans
 - [x] Tiago André Nunes Rosa
