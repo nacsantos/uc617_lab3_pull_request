@@ -74,7 +74,7 @@ Cada aluno deve:
 > **Adicionar aqui o seu nome** quando submeter a tua contribuição.
 
 - [x] Nelson Santos
-- [ ] André Filipe Nascimento Correia
+- [x] André Filipe Nascimento Correia
 - [ ] Augusto José Antunes Garcia
 - [ ]Catarina Gomes Tomaz
 - [ ] Daniel Martins Grazina
@@ -86,10 +86,10 @@ Cada aluno deve:
 - [ ] Gonçalo Vasques Martins
 - [ ] Hugo Miguel Patrocínio Bacalhau
 - [X] Leonor Maria Campos Joaquim
-- [ ] Marco António Campaniço Candeias
+- [X] Marco António Campaniço Candeias
 - [ ] Paola Oliveira Batista
 - [x] Pedro dos Santos Guerra
-- [ ] Ricardo Galvão Evans
+- [X] Ricardo Galvão Evans
 - [x] Tiago André Nunes Rosa
 - [ ] Vanessa Patricia Carvalho Teles
-- [ ] Vitor Silva Andrade
+- [x] Vitor Silva Andrade
