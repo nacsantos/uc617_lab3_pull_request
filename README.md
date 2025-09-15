@@ -91,5 +91,5 @@ Cada aluno deve:
 - [x] Pedro dos Santos Guerra
 - [X] Ricardo Galvão Evans
 - [ ] Tiago André Nunes Rosa
-- [ ] Vanessa Patricia Carvalho Teles
+- [x] Vanessa Patricia Carvalho Teles
 - [x] Vitor Silva Andrade
